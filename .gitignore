@@ -1,2 +1,11 @@
 # Backup files for emacs
 **/*~
+
+# Swap files
+**/*.swp
+
+# compiled
+c/foo
+c/foo.o
+
+
